@@ -48,3 +48,10 @@ To run this project, you will need to set the following environment variables:
 
 - [@mina hany](https://github.com/mina-hydro)
 
+
+## Features
+
+- POM design pattern
+- automated report with screenshots
+- Documented code
+
