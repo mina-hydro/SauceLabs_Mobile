@@ -1,0 +1,11 @@
+
+################################################################################################################################################
+Starting Execution:	"1 out of 5" test cases in the current suite
+Test Method:		"CheckoutTest.checkCheckoutFunctionality"
+################################################################################################################################################
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/jsonDataFiles/Checkout.json"". @02-01-2023 15:16:14.0537 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/jsonDataFiles/Checkout.json"". @02-01-2023 15:16:14.0539 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/jsonDataFiles/Checkout.json"". @02-01-2023 15:16:18.0473 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/jsonDataFiles/Checkout.json"". @02-01-2023 15:16:18.0474 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/jsonDataFiles/Checkout.json"". @02-01-2023 15:16:20.0290 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/jsonDataFiles/Checkout.json"". @02-01-2023 15:16:20.0291 PM

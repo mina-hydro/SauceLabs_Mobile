@@ -12,7 +12,7 @@ public class ElementsActions {
     public WebDriverWait wait;
     public ElementsActions(WebDriver driver) {
         this.driver = driver;
-        wait = new WebDriverWait(this.driver, Duration.ofSeconds(30));
+        wait = new WebDriverWait(this.driver, Duration.ofSeconds(50));
     }
 
     /**

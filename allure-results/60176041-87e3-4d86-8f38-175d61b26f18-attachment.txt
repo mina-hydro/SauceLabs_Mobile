@@ -1,0 +1,5 @@
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/jsonDataFiles/LoginData.json"". @02-01-2023 15:17:40.0037 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/jsonDataFiles/LoginData.json"". @02-01-2023 15:17:40.0039 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/jsonDataFiles/LoginData.json"". @02-01-2023 15:17:40.0039 PM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/jsonDataFiles/LoginData.json". @02-01-2023 15:17:40.0041 PM
+[ReportManager] Successfully created attachment "Test Data - JSON" @02-01-2023 15:17:40.0043 PM
