@@ -53,6 +53,7 @@ public class AddAndRemoveFromCartTest {
         SoftAssert softAssert = new SoftAssert();
         softAssert.assertEquals(pdtName, cartPage.getFirstProductName());
         softAssert.assertEquals(pdtPrice, cartPage.getFirstProductPrice());
+        softAssert.assertAll();
     }
 
     @Test
@@ -61,6 +62,7 @@ public class AddAndRemoveFromCartTest {
         SoftAssert softAssert = new SoftAssert();
         softAssert.assertFalse(new CartPage(driver).isFirstItemStillExist());
         softAssert.assertFalse(new CartPage(driver).isItemsNumberOnCartIconDisplayed());
+        softAssert.assertAll();
     }
 
     /** the following BeforeMethod is to get back to products page after each test as

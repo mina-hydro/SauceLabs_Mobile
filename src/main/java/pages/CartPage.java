@@ -49,7 +49,7 @@ public class CartPage {
         return new CheckOutInformationPage(driver);
     }
     /**
-     * this method use findElements method
+     * this method use findElements method which implemented in "ElementsActions" class
      * @return false if the size of the list
      *        of elements is zero as this means the element exists no more
      */

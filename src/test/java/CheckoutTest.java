@@ -70,6 +70,7 @@ public class CheckoutTest {
         SoftAssert softAssert = new SoftAssert();
         softAssert.assertEquals(pdtPrice, pdtPriceInCheckOutOverView);
         softAssert.assertTrue(new CheckOutCompletePage(driver).getCheckOutCompleteLabel().contains("CHECKOUT: COMPLETE!"));
+        softAssert.assertAll();
     }
     @AfterMethod
     public void takeScreenShot(ITestResult result) throws FileNotFoundException {
