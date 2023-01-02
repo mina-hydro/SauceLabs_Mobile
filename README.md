@@ -6,15 +6,6 @@ This project test some of the SauceLabs app's functionalities
 
 ## badges
 [![shields.io](https://img.shields.io/badge/pass-all-green)]([shields.io](https://img.shields.io/badge/pass-all-green))
-## Installation
-
-You can download the project as a zip file or by git commands
-
-```bash
-  git clone https://github.com/mina-hydro/SauceLabs_Mobile.git
-```
-Also make sure "Node js" is installed on your machine
-    
 ## About the project
     > Test cases:
 
@@ -35,6 +26,22 @@ Also make sure "Node js" is installed on your machine
         - also I used Shaft engine to integrate many test Frameworks together without icluding every dependency at a time
 
     > 
+## Features
+
+- POM design pattern
+- automated report with screenshots
+- Documented code
+
+
+## Installation
+
+You can download the project as a zip file or by git commands
+
+```bash
+  git clone https://github.com/mina-hydro/SauceLabs_Mobile.git
+```
+Also make sure "Node js" is installed on your machine
+    
 ## Environment Variables
 
 To run this project, you will need to set the following environment variables: 
@@ -47,11 +54,4 @@ To run this project, you will need to set the following environment variables:
 ## Authors
 
 - [@mina hany](https://github.com/mina-hydro)
-
-
-## Features
-
-- POM design pattern
-- automated report with screenshots
-- Documented code
 
